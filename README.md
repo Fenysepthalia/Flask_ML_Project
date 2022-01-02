@@ -1,3 +1,3 @@
 # Pneumonia Prediction
-- 201810370311082 - Tsabita Nurul Izzah
-- 201810370311058 - Ulfa Zakiatul Mardhiah
+- 201810370311049 - Feny Septhalia
+- 201810370311050 - Laofin Aripa
